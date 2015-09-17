@@ -1,6 +1,8 @@
 # this is a test of my skills of ruby
 # I try to come up with a prioritied list of my daily things to do
 
+# fork remote
+
 puts "Howdy! Please put your things to do here:"
 ImportantAndUrgent = Array.new
 ImportantButNotUrgent = Array.new
