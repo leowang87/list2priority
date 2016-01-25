@@ -7,6 +7,8 @@ puts "For each item, you will be asked if it is important and if it is urgent."
 puts "\nPlease anwser yes (y) or no (n), and press 'Enter' to quit."
 puts "*" * 50
 
+puts "Howdy! Please put your things to do here:"
+
 ImportantAndUrgent = Array.new
 ImportantButNotUrgent = Array.new
 UrgentButNotImportant = Array.new
